@@ -1,0 +1,8 @@
+# Dataset
+Dataset/
+*.zip
+
+# System
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
